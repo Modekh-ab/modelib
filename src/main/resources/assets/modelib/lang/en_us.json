@@ -1,0 +1,7 @@
+{
+  "message.modelib.sender.server": "Server",
+  "message.modelib.sender.notification": "Player Notification System",
+
+  "tooltip.cheaks.hold_shift": "Hold <_Shift_> for more info",
+  "tooltip.cheaks.right_click": "<_Right Click_> triggers the power of this item!"
+}

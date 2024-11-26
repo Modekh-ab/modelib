@@ -1,0 +1,7 @@
+{
+  "message.modelib.sender.server": "Сервер",
+  "message.modelib.sender.notification": "Система оповещения игроков",
+
+  "tooltip.cheaks.hold_shift": "Удерживай <_Shift_> для деталей",
+  "tooltip.cheaks.right_click": "<_ПКМ_> раскрывает мощь этого предмета!"
+}
